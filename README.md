@@ -1,9 +1,9 @@
 # three-days-forecast
 This is a small React project. During learning I've done some configurations:
 
-[x] Webpack configuration
+- [x] Webpack configuration
 
-[x] babel configuration
+- [x] babel configuration
 
 ## I've learned:
 
@@ -19,14 +19,12 @@ Project contains basic react code which can obtain some weather data from weathe
 
 ## Still learning:
 
-[] advanced React components
+- [ ] advanced React components
 
-[] usage of Redux
+- [ ] usage of Redux
 
-[] styling of components
+- [ ] styling of components
 
-[] routing 
+- [ ] routing 
 
 Wish me luck :)
-
-### Future Frontend Developer
